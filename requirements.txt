@@ -1,0 +1,6 @@
+streamlit
+audio_recorder_streamlit
+streamlit_float
+python-dotenv
+groq
+boto3
